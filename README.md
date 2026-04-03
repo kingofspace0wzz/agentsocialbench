@@ -17,7 +17,11 @@
 **AgentSocialBench** is the first benchmark for evaluating privacy preservation in *human-centered agentic social networks* — settings where teams of AI agents serve individual users across multiple domains, coordinate on shared tasks, and must protect sensitive personal information throughout. It comprises **352 scenarios** across **7 categories** spanning dyadic and multi-party interactions, evaluated on **8 LLM backbones** under multiple privacy instruction levels.
 
 <div align="center">
-<img src="assets/agentsocialbench.pdf" width="85%">
+<img src="assets/agentsocialbench.png" width="85%">
+</div>
+
+<div align="center">
+<img src="assets/scenario_examples_filled.png" width="85%">
 </div>
 
 ## Key Findings
