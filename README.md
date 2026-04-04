@@ -34,7 +34,7 @@
 
 Results under **L0 (Unconstrained)** — agents receive no privacy guidance and must infer boundaries from social norms alone.
 
-> Privacy metrics (↓ lower is better): **CDLR** (Cross-Domain), **MLR** (Mediated Comm.), **CULR** (Cross-User), **MPLR** (Multi-Party Group), **HALR** (Hub-and-Spoke), **CSLR** (Competitive Self-Leakage).
+> Privacy metrics (↓ lower is better): **CDLR** (Cross-Domain), **MLR** (Mediated Comm.), **CULR** (Cross-User), **MPLR** (Group Chat), **HALR** (Hub-and-Spoke), **CSLR** (Competitive Self-Leakage).
 > Quality metrics (↑ higher is better): **ACS** (Affinity Compliance), **IAS** (Info. Abstraction), **TCQ** (Task Completion Quality).
 
 | Model | CDLR↓ | MLR↓ | CULR↓ | MPLR↓ | HALR↓ | CSLR↓ | ACS↑ | IAS↑ | TCQ↑ | Task%↑ |
@@ -89,7 +89,7 @@ python -m prism.scripts.evaluate \
 | Cross-Domain | CD | 100 | Intra-team coordination across domain boundaries |
 | Mediated Comm. | MC | 100 | Agent brokers human-to-human interaction |
 | Cross-User | CU | 50 | Agents from different users interact via A2A protocol |
-| Multi-Party Group | GC | 28 | 3–6 users' agents in shared group chat |
+| Group Chat | GC | 28 | 3–6 users' agents in shared group chat |
 | Hub-and-Spoke | HS | 23 | Coordinator aggregates from multiple participants |
 | Competitive | CM | 23 | Agents compete for a resource under pressure |
 | Affinity-Modulated | AM | 28 | Asymmetric affinity tiers modulate per-recipient sharing rules |
