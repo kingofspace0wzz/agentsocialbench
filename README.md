@@ -6,7 +6,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2604.01487-b31b1b.svg)](https://arxiv.org/abs/2604.01487)
 [![Dataset](https://img.shields.io/badge/🤗_Dataset-AgentSocialBench-yellow)](https://huggingface.co/datasets/kingofspace0wzz/AgentSocialBench)
-[![Website](https://img.shields.io/badge/🌐_Website-agentsocialbench.github.io-blue)](https://agentsocialbench.github.io)
+[![Website](https://img.shields.io/badge/🌐_Website-agent--social--bench.github.io-blue)](https://agent-social-bench.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
@@ -130,11 +130,14 @@ python -m prism.analysis.generate_all
 If you use AgentSocialBench in your research, please cite our paper:
 
 ```bibtex
-@article{wang2025agentsocialbench,
-  title={AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks},
-  author={Wang, Prince Zizhuang and Jiang, Shuli},
-  journal={arXiv preprint arXiv:2604.01487},
-  year={2025}
+@misc{wang2026agentsocialbenchevaluatingprivacyrisks,
+      title={AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks}, 
+      author={Prince Zizhuang Wang and Shuli Jiang},
+      year={2026},
+      eprint={2604.01487},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2604.01487}, 
 }
 ```
 
