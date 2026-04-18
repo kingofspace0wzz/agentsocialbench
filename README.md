@@ -141,7 +141,7 @@ If you use AgentSocialBench in your research, please cite our paper:
 }
 ```
 
-## Star History
+<!-- ## Star History
 
 <div align="center">
 <picture>
@@ -149,4 +149,4 @@ If you use AgentSocialBench in your research, please cite our paper:
   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingofspace0wzz/agentsocialbench&type=Date" />
   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingofspace0wzz/agentsocialbench&type=Date" width="70%" />
 </picture>
-</div>
+</div> -->
