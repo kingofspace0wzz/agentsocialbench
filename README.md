@@ -125,28 +125,4 @@ python -m prism.analysis.generate_all
 | L1 | Explicit | Hard privacy rules + acceptable abstractions |
 | L2 | Full Defense | L1 + Domain Boundary Prompting + Abstraction Templates + Minimal Information Principle |
 
-## Citation
 
-If you use AgentSocialBench in your research, please cite our paper:
-
-```bibtex
-@misc{wang2026agentsocialbenchevaluatingprivacyrisks,
-      title={AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks}, 
-      author={Prince Zizhuang Wang and Shuli Jiang},
-      year={2026},
-      eprint={2604.01487},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2604.01487}, 
-}
-```
-
-<!-- ## Star History
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kingofspace0wzz/agentsocialbench&type=Date&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kingofspace0wzz/agentsocialbench&type=Date" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingofspace0wzz/agentsocialbench&type=Date" width="70%" />
-</picture>
-</div> -->
